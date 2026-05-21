@@ -1,0 +1,1 @@
+0521-build.log是在x86平台的构建日志, 在LA平台由于依赖项目如rules_python等还未支持LA架构，在LA上还未构建通过
